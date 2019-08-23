@@ -18,4 +18,4 @@ eureka:
     lease-renewal-interval-in-seconds: 30 # 设置心跳周期为30s
     lease-expiration-duration-in-seconds: 90 # 设置服务生命周期为90s
 test:
-  message: hello 你好!
+  message: hello 消息总线!
